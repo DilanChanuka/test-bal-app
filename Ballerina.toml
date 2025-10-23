@@ -1,0 +1,4 @@
+[package]
+org = "testorg001"
+name = "test_bal_app"
+version = "1.0.0"
